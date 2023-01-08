@@ -1,0 +1,3 @@
+start expo app - DONE
+create navigation file
+design menu page
